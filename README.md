@@ -1,3 +1,4 @@
+```tree
 📦app
 ┣ 📂(group0)
 ┃ ┗ 📜page.tsx
@@ -14,3 +15,4 @@
 ┣ 📜favicon.ico
 ┣ 📜globals.css
 ┗ 📜layout.tsx
+```
